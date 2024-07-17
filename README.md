@@ -6,5 +6,5 @@
 - 💞️ Aperfeiçoando para entrar na área de Back-End
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarv2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarv2021&hide=contribs,prs)](https://github.com/LucasCarv2021)
 
