@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho441/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Bratv4/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasCarv2021&show_icons=true&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascarv2021&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
